@@ -60,7 +60,7 @@ Este proyecto es un chatbot desarrollado para **VetGuardian**, una plataforma de
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/Perezcortes/vetguardian-chatbot.git
+git clone https://github.com/Perezcortes/VetGuardian.git
 cd vetguardian-chatbot
 ```
 
