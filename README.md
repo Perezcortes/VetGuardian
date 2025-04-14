@@ -1,6 +1,10 @@
 
 # 🤖 Chatbot de WhatsApp para VetGuardian
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" width="200">
+</p>
+
 Este proyecto es un chatbot desarrollado para **VetGuardian**, una plataforma de asistencia veterinaria. El bot se conecta con la **API de WhatsApp Business Cloud** de Meta y ofrece funcionalidades básicas como bienvenida, validación de número mexicano, y un menú interactivo con botones.
 
 ---
